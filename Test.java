@@ -4,4 +4,8 @@ public class Test {
         System.out.println("hello world");
     }
 
+    public static String toString() {
+        return "Test";
+    }
+
 }
